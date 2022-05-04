@@ -1,0 +1,9 @@
+java.lang.StringUtils->org.apache.commons.lang.StringUtils,org.apache.commons.lang3.StringUtils,org.apache.commons.lang3.StringUtils,org.apache.commons.lang.StringUtils,org.apache.commons.lang.StringUtils,java.util.List,java.util.List,org.apache.commons.lang3.StringUtils,org.apache.commons.lang3.StringUtils,org.apache.commons.lang3.StringUtils,org.apache.commons.lang3.StringUtils
+java.lang.Class->java.util.ArrayList,java.util.ArrayList,java.util.Map,java.util.List,javafx.collections.ObservableList,java.util.ArrayList,java.util.List,java.util.List
+org.apache.log4j.Logger->java.lang.Class,java.lang.Class,java.util.List,java.util.List,java.util.List,java.util.List
+java.util.Arrays->java.util.Map,java.io.IOException
+org.hl7.fhir.String->java.lang.String,java.util.Map
+java.lang.Object->java.util.ArrayList
+java.awt.Insets->java.util.List
+java.lang.Math->java.util.Iterator
+java.lang.Integer->java.lang.Math
