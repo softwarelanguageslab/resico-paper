@@ -1,0 +1,8 @@
+Library,Total,Success,Failure,Model
+JDK,1359,198,1161,COSTER
+Apache-Log4J,9,0,9,COSTER
+Apache-Http,5,2,3,COSTER
+
+JDK,1359,1164,195,RESICO-KNN
+Apache-Log4J,9,0,9,RESICO-KNN
+Apache-Http,5,4,1,RESICO-KNN

@@ -1,0 +1,7 @@
+api,context,fqns
+TelephonyManager,DroidGap|getSystemService|Context|SERVICE|String|TelephonyManager|getDeviceID|String,android.telephony.TelephonyManager
+DroidGap|getSystemService,TelephonyManager|Context|SERVICE|String|TelephonyManager|getDeviceID|String,org.apache.cordova.DroidGap
+Context|SERVICE,TelephonyManager|DroidGap|getSystemService|String|TelephonyManager|getDeviceID|String,android.context.Context
+String,TelephonyManager|DroidGap|getSystemService|Context|SERVICE|TelephonyManager|getDeviceID|String,java.lang.String
+TelephonyManager|getDeviceID,TelephonyManager|DroidGap|getSystemService|Context|SERVICE|String|String,android.telephony.TelephonyManager
+String,TelephonyManager|DroidGap|getSystemService|Context|SERVICE|String|TelephonyManager|getDeviceID,java.lang.String

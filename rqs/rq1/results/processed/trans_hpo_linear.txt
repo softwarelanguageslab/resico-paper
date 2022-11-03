@@ -1,0 +1,1 @@
+Solver: 0 -> auto, 1 -> cholesky, 2 -> lsqr, 3 -> sag, 4 -> saga, 5 -> sparse_cg, 6 -> svd

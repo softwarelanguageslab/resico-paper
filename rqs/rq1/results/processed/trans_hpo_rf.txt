@@ -1,0 +1,1 @@
+Criterion: 0 -> gini, 1 -> entropy

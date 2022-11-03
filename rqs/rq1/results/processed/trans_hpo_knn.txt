@@ -1,0 +1,2 @@
+Algorithm: 0 -> ball_tree, 1 -> brute, 2 -> kd_tree
+Weights: 0 -> distance, 1 -> uniform
